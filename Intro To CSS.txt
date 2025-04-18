@@ -1,0 +1,45 @@
+Introduction to CSS
+Introduction
+This guide covers essential techniques for creating flexible, responsive web layouts using CSS tools like Media Queries, Flexbox, and CSS Grid.
+
+Steps to Create Responsive Web Layouts
+1.   Start with a Mobile-First Approach
+
+Design for small screens first (e.g., smartphones), then progressively enhance for larger screens like tablets and desktops.
+
+2.   Use Media Queries for Screen Adaptation
+
+Apply different styles based on screen characteristics (width, height) using media queries. For example, set breakpoints for mobile (max-width: 480px), tablet (481px to 768px), and desktop screens (769px and above).
+
+@media (max-width: 600px) {
+
+Example syntax:
+
+  			 /* Styles for small screens */
+
+             }
+
+3.   CSS Flexbox for Simple, One-Dimensional Layouts
+
+Use Flexbox to organize elements in a row or column. It adjusts automatically to different screen sizes, allowing for responsive layouts without changing the HTML structure.
+
+Activate Flexbox with:
+
+display: flex;
+
+4.  CSS Grid for Complex, Two-Dimensional Layouts
+
+Use CSS Grid to design structured layouts with precise control over rows and columns. Ideal for more complex layouts across multiple dimensions.
+
+Example: display: grid;
+
+grid-template-columns: 1fr 2fr;
+
+5.  Responsive Units for Dynamic Sizing
+
+Use percentage (%), viewport width (vw), and viewport height (vh) units to ensure elements scale proportionately on any screen size.
+
+Example:width: 50vw; /* Element takes up 50% of the viewport width */
+
+Conclusion
+By combining a mobile-first design, media queries, and responsive CSS tools (Flexbox, Grid, and Units), you can create layouts that adapt seamlessly to any device.
