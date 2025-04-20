@@ -24,4 +24,4 @@ Handling Events for Interactivity
 JavaScript can detect user interactions through event listeners like addEventListener(), which triggers actions in response to events like clicks or key presses. For example, clicking a button could show an alert, creating a more interactive experience. Event listeners can also be removed to stop responding to specific actions when necessary.
 
 Conclusion
-The ability to manipulate the DOM with JavaScript provides developers the tools to create responsive, interactive web pages. Through selecting elements, adjusting content, styling, and handling events, developers can significantly enhance user engagement and overall experience on their websites.
+The ability to manipulate the DOM with JavaScript provides developers the tools to create responsive, interactive web pages. Through selecting elements, adjusting content, styling, and handling events, developers can significantly enhance user engagement and overall experience on their websites.SDASDASS
