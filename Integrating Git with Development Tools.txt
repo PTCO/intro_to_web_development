@@ -17,3 +17,4 @@ Conclusion
 Integrating Git with IDEs and using plugins such as GitLens, IntelliJ IDEA’s Git Integration, and Eclipse’s EGit offers a cohesive development experience. These tools make version control an integral part of the IDE, enhancing productivity and collaboration while helping developers manage complex code changes efficiently.
 
 sadas
+asdas
